@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EdgeFirewalk
-- 👀 I’m interested in developing desktop applications
-- 🌱 I’m currently learning: C# + WPF
+- 👀 I’m interested in ###
+- 🌱 I’m currently learning: ###
 - 💞️ I’m looking to collaborate on ###
 - 📫 How to reach me ###
 
