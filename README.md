@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EdgeFirewalk
-- 👀 I’m interested in ###
-- 🌱 I’m currently learning: ###
+- 👀 I’m interested in creating web-applications.
+- 🌱 I’m currently learning: C#, ASP.NET Core, HTML, CSS, JavaScript.
 - 💞️ I’m looking to collaborate on ###
 - 📫 How to reach me ###
 
