@@ -7,7 +7,7 @@
     * BEM;
     * JavaScript (~~ES6~~);
     * React (~~Hooks, Router~~);
-    <!-- * Vue; -->
+    <!-- * Vue3; -->
     * ~~Redux (Toolkit)~~;
     * ~~REST API~~;
     * Git, GitHub;
