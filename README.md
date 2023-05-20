@@ -11,6 +11,8 @@
     <!-- * Vuex -->
     <!-- * Redux (Toolkit); -->
     <!-- * REST API; -->
+    <!-- * Webpack, Babel -->
+    <!-- * npm -->
     * Git, GitHub;
     * Figma.
 <!-- - 💞️ I’d like to collaborate on ###
