@@ -6,9 +6,9 @@
     * Flexbox / Grid;
     * BEM;
     * JavaScript; <!-- (ES6) -->
-    * React (Basics); <!-- (Hooks, Router) -->
     <!-- * Vue 3 (Vue Router); -->
     <!-- * Vuex -->
+    <!-- * React; <!-- (Hooks, Router) -->
     <!-- * Redux (Toolkit); -->
     <!-- * REST API; -->
     <!-- * Webpack, Babel -->
