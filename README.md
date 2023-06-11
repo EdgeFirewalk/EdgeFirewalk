@@ -7,7 +7,7 @@
     * BEM;
     * JavaScript; <!-- (ES6) -->
     <!-- * Vue 3 (Vue Router); -->
-    <!-- * Vuex -->
+    <!-- * Pinia -->
     <!-- * REST API; -->
     <!-- * Webpack, Babel -->
     <!-- * npm -->
