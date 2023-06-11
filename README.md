@@ -6,7 +6,7 @@
     * Flexbox / Grid;
     * BEM;
     * JavaScript; <!-- (ES6) -->
-    * <!-- * Jest; -->
+    <!-- * Jest; -->
     <!-- * Vue 3 (Vue Router); -->
     <!-- * Pinia -->
     <!-- * REST API; -->
