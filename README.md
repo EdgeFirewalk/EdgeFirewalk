@@ -13,6 +13,6 @@
     <!-- * Webpack, Babel -->
     <!-- * npm -->
     * Git, GitHub;
-    * Figma.
+    * Figma / Photoshop.
 <!-- - 💞️ I’d like to collaborate on ###
 - 📫 How to reach me: thedinsorpaswer2@mail.ru -->
