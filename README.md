@@ -6,12 +6,14 @@
     * Flexbox / Grid;
     * BEM;
     * JavaScript; <!-- (ES6) -->
-    <!-- * Jest, ESLint; -->
+    <!-- * Jest; -->
+    <!-- * TypeScript -->
     <!-- * Vue 3 (Vue Router, BootstrapVue); -->
     <!-- * Vuex, Pinia -->
-    <!-- * REST API; -->
+    <!-- * ESLint, Prettier -->
     <!-- * Vite, Webpack, Babel -->
     <!-- * npm -->
+    <!-- * REST API; -->
     * Git, GitHub;
     * Figma / Photoshop.
 <!-- - 💞️ I’d like to collaborate on ###
