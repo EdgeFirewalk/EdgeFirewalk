@@ -7,6 +7,7 @@
     * BEM;
     * JavaScript; <!-- (ES6) -->
     <!-- * Jest; -->
+    <!-- * Fetch, Axios; -->
     <!-- * TypeScript -->
     <!-- * Vue 3 (Vue Router, BootstrapVue); -->
     <!-- * Vuex, Pinia -->
