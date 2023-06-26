@@ -3,7 +3,7 @@
 - 💻 My skills:
    * HTML5;
    * CSS3;
-   * Flexbox / Grid;
+   * Flexbox / Grid, Responsive layout;
    * BEM;
    * JavaScript;
    * Git, GitHub;
