@@ -3,7 +3,8 @@
 - 💻 My skills:
    * HTML5;
    * CSS3;
-   * Flexbox / Grid, Responsive layout;
+   * Flexbox / Grid;
+   * Responsive layout;
    * BEM;
    * JavaScript;
    * Git, GitHub;
@@ -15,16 +16,18 @@
     * HTML5;
     * CSS3 (SCSS, Bootstrap);
     * Flexbox / Grid;
+    * Responsive layout, cross-browser layout;
     * BEM;
     * JavaScript (ES6);
     * Jest;
     * Fetch, Axios;
-    * TypeScript
+    * TypeScript;
     * Vue 3 (Vue Router, BootstrapVue);
-    * Vuex, Pinia
-    * ESLint, Prettier
-    * Vite, Webpack, Babel
-    * npm
+    * Options API, Composition API;
+    * Pinia, Vuex;
+    * ESLint, Prettier;
+    * Vite, Webpack, Babel;
+    * npm;
     * REST API;
     * Git, GitHub;
     * Figma / Photoshop.
