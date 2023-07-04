@@ -17,6 +17,7 @@
     * CSS3 (SCSS, Bootstrap);
     * Flexbox / Grid;
     * Responsive layout, cross-browser layout;
+    * Desktop first / Mobile first;
     * BEM;
     * JavaScript (ES6);
     * Jest;
