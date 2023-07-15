@@ -1,4 +1,4 @@
-- 🔥 Hi, I’m EdgeFirewalk!
+- 🔥 Hi, I’m **EdgeFirewalk**!
 - 🌐 I’m interested in creating Web Applications / Web Sites.
 - 💻 My skills:
    * HTML5;
