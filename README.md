@@ -5,31 +5,38 @@
    * CSS3;
    * Flexbox / Grid;
    * Responsive layout;
+   * Desktop first / Mobile first;
    * BEM;
-   * JavaScript;
+   * JavaScript (ES6+);
+   * Fetch API;
+   * Vue 3 (Vue Router);
+   * Options API;
+   * Vuex;
+   * npm;
    * Git, GitHub;
    * Figma / Photoshop.
 <!-- - 💞️ I’d like to collaborate on ### -->
 <!-- - 📫 How to reach me: thedinsorpaswer2@mail.ru -->
 
 <!--
-    * HTML5;
-    * CSS3 (SCSS, Bootstrap);
-    * Flexbox / Grid;
-    * Responsive layout, cross-browser layout;
-    * Desktop first / Mobile first;
-    * BEM;
-    * JavaScript (ES6);
+    * ~~HTML5;
+    * CSS3~~ (SCSS, Bootstrap);
+    * ~~Flexbox / Grid;
+    * Responsive layout~~, cross-browser layout;
+    * ~~Desktop first / Mobile first;
+    * ~~BEM;
+    * ~~JavaScript (ES6+);
     * Jest;
-    * Fetch, Axios;
+    * Fetch API~~, Axios;
     * TypeScript;
-    * Vue 3 (Vue Router, BootstrapVue);
-    * Options API, Composition API;
-    * Pinia, Vuex;
+    * Vue 3~~ (~~Vue Router, BootstrapVue);
+    * Options API~~, Composition API;
+    * Pinia, ~~Vuex;
+    * Nuxt.js;
     * ESLint, Prettier;
     * Vite, Webpack, Babel;
-    * npm;
+    * ~~npm;
     * REST API;
-    * Git, GitHub;
-    * Figma / Photoshop.
+    * ~~Git, GitHub;
+    * ~~Figma / Photoshop.
 -->
