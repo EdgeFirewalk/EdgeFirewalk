@@ -1,42 +1,6 @@
-- 🔥 Hi, I’m **EdgeFirewalk**!
-- 🌐 I’m interested in creating Web Applications / Web Sites.
-- 💻 My skills:
-   * HTML5;
-   * CSS3;
-   * Flexbox / Grid;
-   * Responsive layout;
-   * Desktop first / Mobile first;
-   * BEM;
-   * JavaScript (ES6+);
-   * Fetch API;
-   * Vue 3 (Vue Router);
-   * Options API;
-   * Vuex;
-   * npm;
-   * Git, GitHub;
-   * Figma / Photoshop.
-<!-- - 💞️ I’d like to collaborate on ### -->
-<!-- - 📫 How to reach me: thedinsorpaswer2@mail.ru -->
+<h1 align="center">
+  Hi, I'm EdgeFirewalk
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="45" />
+</h1>
 
-<!--
-    * ~~HTML5;
-    * CSS3~~ (SCSS, Bootstrap);
-    * ~~Flexbox / Grid;
-    * Responsive layout~~, cross-browser layout;
-    * ~~Desktop first / Mobile first;
-    * ~~BEM;
-    * ~~JavaScript (ES6+);
-    * Jest;
-    * Fetch API~~, Axios;
-    * TypeScript;
-    * Vue 3~~ (~~Vue Router, BootstrapVue);
-    * Options API~~, Composition API;
-    * Pinia, ~~Vuex;
-    * Nuxt.js;
-    * ESLint, Prettier;
-    * Vite, Webpack, Babel;
-    * ~~npm;
-    * REST API;
-    * ~~Git, GitHub;
-    * ~~Figma / Photoshop.
--->
+Not much info here yet :sleeping:
